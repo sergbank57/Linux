@@ -1,0 +1,14 @@
+proba
+
+Thu Feb  2 17:41:30 UTC 2023
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/xvda1      8.0G  6.9G  1.1G  87% /
+  769  df /
+  770  df
+  771  df -h /
+  772  df -h / >> /home/basic_57-58e/SergeyBL/newfeilik.txt
+  773  history | tail -n5 >> /home/basic_57-58e/SergeyBL/newfeilik.txt
+ GenuineIntel
+0--?????????
+0--?????????????
+135
