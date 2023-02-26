@@ -9,6 +9,6 @@ Filesystem      Size  Used Avail Use% Mounted on
   772  df -h / >> /home/basic_57-58e/SergeyBL/newfeilik.txt
   773  history | tail -n5 >> /home/basic_57-58e/SergeyBL/newfeilik.txt
  GenuineIntel
-0--?????????
-0--?????????????
+0
+0
 135

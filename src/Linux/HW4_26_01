@@ -1,0 +1,23 @@
+#!/bin/bash
+# Записываем дату
+date
+
+# Приветствуем пользователя
+USER="Sergey Bankov"
+echo "Hello, $USER!"
+
+# Выводим текущую директорию
+echo "Current directory: $(pwd)"
+
+# Выводим количество процессов
+echo "Total number of processes: $(ps aux | wc -l)"
+
+# Выводим количество процессов с именем bioset
+echo "Number of bioset processes: $(ps aux | grep -v grep | grep bioset | wc -l)"
+
+# Выводим права на файл /etc/passwd
+ls -l /etc/passwd | awk '{print $1}'
+~
+~
+~
+"myfirstbashscript.sh" 19L, 596B                              6,19          Al
